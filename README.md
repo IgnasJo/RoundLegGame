@@ -1,10 +1,9 @@
-Round Leg - The Game is a Zombie wave top-down shooter with skill-upgrade progression inspired by boxheads, zombie survivor, diep.io.
+## Round Leg - The Game
 
-The main goal of the game is to survive as many waves as possible. This is made difficult by an ever increasing number of enemies, along with mechanics that make enemies stronger.
+### Description
+Round Leg - The Game is a Zombie wave top-down shooter with skill-upgrade progression inspired by boxheads, zombie survivor, diep.io. The main goal of the game is to survive as many waves as possible. This is made difficult by an ever increasing number of enemies, along with mechanics that make enemies stronger. The game play loop consists of shooting and dodging enemies, upgrading your character by skills, then shooting some more enemies and so on.
 
-The game play loop consists of shooting and dodging enemies, upgrading your character by skills, then shooting some more enemies and so on.
-
-Setup:
+### Setup
 1. Clone the repo
 2. Download Unity hub
 3. Create unity 6.0 project with universal 3d template
